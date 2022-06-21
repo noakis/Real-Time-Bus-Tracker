@@ -2,12 +2,20 @@
 
 <img src= "Real Time Bus Tracker Map.png" width='300'/>
 
-Title of the project: Real Time Bus Tracker
+DESCRIPTION
 
-Description: Map that shows bus stops between MIT and Harvard. With a title that is with a pink background with red lettering the viewer is able to see and understand what the maps shows. 
+Using JavaScript with Mapbox the map of Boston shows bus stops between MIT and Harvard. With a title that is with a pink background with red lettering the viewer is able to see and understand what the maps shows. 
 
-How to Run: Running the html page would display the map.
+How to run:
 
-Roadmap of future improvements: I would like to make it more interactive for my portfolio project assignment.
+. Clone the repository into your local environment
+. Navigate to https://account.mapbox.com/ and create an account
+. Copy the Default public token or generate your own
+. Open the mapanimation.js file and add your token in the
+. Open the index.html file
+. Right click and select 'Open Default browser' to open the project in your default browser.
 
-License information: As an assignment for the MIT Professional Certificate in Coding program, I followed the instructions provided, hence the MIT license. 
+Roadmap of future improvements:
+Satellite information fro GPS tracking could be added to see in real time.
+
+License information: MIT license. 
