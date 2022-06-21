@@ -6,7 +6,7 @@ DESCRIPTION
 
 Using JavaScript with Mapbox the map of Boston shows bus stops between MIT and Harvard. With a title that is with a pink background with red lettering the viewer is able to see and understand what the maps shows. 
 
-Instructions:
+INSTRUCTIONS:
 
 . Clone the repository into your local environment
 
@@ -20,7 +20,7 @@ Instructions:
 
 . Right click and select 'Open Default browser' to open the project in your default browser.
 
-Possible improvements:
+POSSIBLE IMPROVEMENTS:
 
 GPS tracking could be added to see buses move in real time.
 
