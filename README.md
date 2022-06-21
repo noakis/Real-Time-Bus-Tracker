@@ -22,6 +22,6 @@ How to run:
 
 Roadmap of future improvements:
 
-Satellite information fro GPS tracking could be added to see in real time.
+GPS tracking could be added to see buses move in real time.
 
-License information: MIT license. 
+MIT License
