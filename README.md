@@ -2,11 +2,11 @@
 
 <img src= "Real Time Bus Tracker Map.png" width='300'/>
 
-DESCRIPTION
+DESCRIPTION:
 
 Using JavaScript with Mapbox the map of Boston shows bus stops between MIT and Harvard. With a title that is with a pink background with red lettering the viewer is able to see and understand what the maps shows. 
 
-INSTRUCTIONS:
+HOW TO RUN:
 
 . Clone the repository into your local environment
 
@@ -20,7 +20,7 @@ INSTRUCTIONS:
 
 . Right click and select 'Open Default browser' to open the project in your default browser.
 
-POSSIBLE IMPROVEMENTS:
+ROADMAP FOR FUTURE IMPROVEMENTS:
 
 GPS tracking could be added to see buses move in real time.
 
