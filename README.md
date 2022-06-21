@@ -1,5 +1,7 @@
 # Real-Time-Bus-Tracker
 
+<img src= "Real Time Bus Tracker Map.png" width='300'/>
+
 Title of the project: Real Time Bus Tracker
 
 Description: Map that shows bus stops between MIT and Harvard. With a title that is with a pink background with red lettering the viewer is able to see and understand what the maps shows. 
